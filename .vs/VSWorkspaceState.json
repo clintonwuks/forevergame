@@ -3,8 +3,9 @@
     "",
     "\\public",
     "\\src",
-    "\\src\\Components"
+    "\\src\\Components",
+    "\\src\\question"
   ],
-  "SelectedNode": "\\src\\index.js",
+  "SelectedNode": "\\src\\question\\Context.jsx",
   "PreviewInSolutionExplorer": false
 }

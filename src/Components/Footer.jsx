@@ -1,11 +1,10 @@
 ﻿import React from 'react';
-import './footer.css';
+import '../footer.css';
 
 function Footer() {
     return (
-        <div>
-			<footer>
-                <div className="jumbotron jumbotron-fluid bg-secondary p-4 mt-5 mb-0">
+        <footer>
+            <div className="jumbotron jumbotron-fluid bg-secondary  mb--10" style={{ marginTop: "-1px" }}>
                     <div className="container">
                         <div className="row">
                             <div className="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 foot">
@@ -50,7 +49,6 @@ function Footer() {
                         </div>
                     </div>
 	        </footer>
-        </div>
     );
 }
 
