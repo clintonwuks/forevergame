@@ -6,9 +6,9 @@ function Navbar() {
         <div >
 			<nav className="navbar navbar-expand-lg mb-0">
 				<div className="container">
-					<a className="navbar-brand text-white text-center" href="#"><i className="bi bi-emoji-heart-eyes fa-lg mr-2" style={{ fontSize:'50px' }} />Forever Game</a>
+					<a className="navbar-brand text-white " href="/"><i className="bi bi-emoji-heart-eyes-fill mr-2 " style={{ fontSize:'25px' }}></i>Forever Game</a>
 					<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#nvbCollapse" aria-controls="nvbCollapse">
-						<span className="navbar-toggler-icon"></span>
+						<span className="btn btn-primary navbar-toggler-icon">Hey</span>
 					</button>
 					<div className="collapse navbar-collapse" id="nvbCollapse">
 						<ul className="navbar-nav ml-auto">
