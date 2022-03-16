@@ -23,8 +23,8 @@ function Questions() {
                 }
                 
                 //setCurrQuestion(currQuestion + 1);
-            }else
-                if (qBank[currQuestion].correct === optionChosen) {
+            } else
+                if (qBank[currQuestion].correct.match(optionChosen)) {
                     console.log(currQuestion);
                     setCurrScore(score + 1);
                     console.log(currQuestion);

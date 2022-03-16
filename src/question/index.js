@@ -1,30 +1,30 @@
  const qBank = [
     {
         question:
-            "how build the app ?",
-        answers: ["vinayak", "sarthak", "clint", "devesh"],
-        correct: "clint",
+            "Will he do anything for you ?",
+        answers: ["Nope", "Nada", "Will", "Wont"],
+        correct: "Will",
         questionId: "099099"
     },
     {
         question:
-            "whos his friend ?",
-        answers: ["guy", "girl", "guy", "person"],
-        correct: "person",
+            "Whos the person he thinks of the most ?",
+        answers: ["Clint", "Clinton", "You", "Thierry Henry"],
+        correct: "You",
         questionId: "093909"
     },
     {
         question:
-            "Shey hin like bread ?",
-        answers: ["be like", "why not", "yes", "affirmative"],
-        correct: "yes",
+            "What song  did Jason Derulo release in 2013 that couples love so much ?",
+        answers: ["be like", "Marry Me", "Wiggle", "affirmative"],
+        correct: "Marry Me",
         questionId: "009039"
     },
     {
         question:
-            "who be en dog ?",
-        answers: ["rudy", "gelispe", "roxie", "bingo"],
-        correct: "rudy",
+            "So will you ?",
+        answers: ["Yes", "No", "Just say yes", "Abeg yes"],
+        correct: "Yes",
         questionId: "090089"
     },
   
