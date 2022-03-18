@@ -8,11 +8,12 @@ import { QuizContext } from '../question/Context'
 
 
 function Landing() {
-    const [gameState, setGameState] = useState("game");
+    const [gameState, setGameState] = useState("marry");
+    const [score, setCurrScore] = useState(0);
 
     return (
         <div className="qbootstrap-hero">
-            <QuizContext.Provider value={{ gameState, setGameState }}>
+            <QuizContext.Provider value={{ gameState, setGameState, score, setCurrScore }}>
                 <Header />
                 {gameState === "game" && < Content />}
                 {gameState === "marry" && < MarryMe />}
