@@ -4,9 +4,9 @@ import '../navbar.css';
 function Navbar() {
     return (
         <div >
-			<nav className="navbar navbar-expand-lg mb-0">
+			<nav className="navbar navbar-expand-lg">
 				<div className="container">
-					<a className="navbar-brand text-white " href="/"><i className="bi bi-emoji-heart-eyes-fill mr-2 " style={{ fontSize:'25px' }}></i>Forever Game</a>
+					<a className="navbar-brand text-white " href="/"><i className="bi bi-emoji-heart-eyes-fill mr-2 " style={{ fontSize:'40px' }}></i>Forever Game</a>
 					<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#nvbCollapse" aria-controls="nvbCollapse">
 						<span className="btn btn-primary navbar-toggler-icon">Hey</span>
 					</button>
