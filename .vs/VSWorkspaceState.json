@@ -4,8 +4,9 @@
     "\\public",
     "\\src",
     "\\src\\Components",
+    "\\src\\Pages",
     "\\src\\question"
   ],
-  "SelectedNode": "\\src\\question\\Context.jsx",
+  "SelectedNode": "\\src\\Pages\\Couple.jsx",
   "PreviewInSolutionExplorer": false
 }

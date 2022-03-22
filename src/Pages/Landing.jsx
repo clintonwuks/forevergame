@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Footer from './Footer';
-import Header from './Header';
-import Content from './Content';
-import MarryMe from './MarryMe';
+import Footer from '../Components/Footer';
+import Header from '../Components/Header';
+import Content from '../Components/Content';
+import MarryMe from '../Components/MarryMe';
 import '../landing.css'
 import { QuizContext } from '../question/Context'
 
