@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Footer from '../Components/Footer';
+
 import Header from '../Components/Header';
 import CoupleContent from '../Components/CoupleContent';
 import MarryMe from '../Components/MarryMe';
@@ -10,11 +10,11 @@ import { QuizContext } from '../question/Context'
 function Couple() {
 
     return (
-        <div className="qbootstrap-hero">
+        <div className="">
             
                 <Header />
                 <CoupleContent />
-                <Footer />
+               
             
         </div>
     );
