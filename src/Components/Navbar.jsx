@@ -6,17 +6,10 @@ import '../navbar.css';
 function Navbar() {
     return (
         <div >
-<<<<<<< HEAD
-			<nav className="navbar navbar-expand-lg">
-				<div className="container">
-					<a className="navbar-brand text-white " href="/"><i className="bi bi-emoji-heart-eyes-fill mr-2 " style={{ fontSize:'40px' }}></i>Forever Game</a>
-					<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#nvbCollapse" aria-controls="nvbCollapse">
-=======
 			<nav className="navbar navbar-expand-lg fixed-top">
 				<div className="container-fluid">
 					<a className="navbar-brand text-white " href="/"><i className="fa fa-gamepad mr-2 " style={{ fontSize:'25px' }}></i>Forever Game</a>
 					<button className="navbar-toggler" type="button" data-toggle="#collapse" data-target="#navConts" aria-controls="navConts" aria-expanded="false">
->>>>>>> e3a546627a009e82da5c10069d9077551dceb193
 						<span className="btn btn-primary navbar-toggler-icon">Hey</span>
 					</button>
 					<div className="collapse navbar-collapse" id="navConts">
