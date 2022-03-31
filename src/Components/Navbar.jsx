@@ -22,7 +22,7 @@ function Navbar() {
 								<Link className="nav-link" to="/Couple"><i className="bi bi-emoji-heart-eyes-fill mr-1"></i>The Couple</Link>
 							</li>
 							<li className="nav-item pl-1">
-								<a className="nav-link" href="#"><i className="fa fa-phone fa-fw fa-rotate-180 mr-1"></i>Contact Us</a>
+								<Link className="nav-link" to="https://twitter.com/TheRealClint_"><i className="fa fa-phone fa-fw fa-rotate-180 mr-1"></i>Contact Us</Link>
 							</li>
 						</ul>
 					</div>
