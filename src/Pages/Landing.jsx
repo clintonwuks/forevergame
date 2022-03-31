@@ -3,6 +3,7 @@ import Footer from '../Components/Footer';
 import Header from '../Components/Header';
 import Content from '../Components/Content';
 import MarryMe from '../Components/MarryMe';
+import EndComp from '../Components/EndComp';
 import '../landing.css'
 import { QuizContext } from '../question/Context'
 
@@ -17,6 +18,7 @@ function Landing() {
                 <Header />
                 {gameState === "game" && < Content />}
                 {gameState === "marry" && < MarryMe />}
+                {gameState === "end" && < EndComp />}
                 <Footer />
             </QuizContext.Provider >
         </div>

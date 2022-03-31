@@ -2,7 +2,7 @@ import qBank from '../question/index';
 import React, { useState, useContext } from 'react';
 import { QuizContext } from '../question/Context'
 
-export const backg = `${process.env.PUBLIC_URL}/cover_bg_3.jpg`;
+export const backg = `${process.env.PUBLIC_URL}/assets/images/cover_bg_2.jpg`;
 
 
 function Questions() {
@@ -18,7 +18,7 @@ function Questions() {
                     setCurrQuestion(0);
                     setCurrScore(0);
                     console.log(currQuestion);
-                    setGameState("marry");
+                    setGameState("end");
                     return 0;
                 }
                 

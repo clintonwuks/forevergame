@@ -1,9 +1,13 @@
 .coop {
 
-    background-image : url(../public/cover_bg_3.jpg);
+    background-image : url(../public/assets/images/cover_bg_2.jpg);
     height: 100%;
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+p {
+    text-decoration-color: blue;
 }

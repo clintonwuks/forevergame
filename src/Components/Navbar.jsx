@@ -14,7 +14,7 @@ function Navbar() {
 					</button>
 					<div className="collapse navbar-collapse" id="navConts">
 						<ul className="navbar-nav ms-auto">
-							<li className="nav-item active pl-1">
+							<li className="nav-item pl-1">
 								<Link className="nav-link" to="/"><i className="fa fa-home fa-fw mr-1"></i>Home</Link>
 							</li>
 							

@@ -36,12 +36,13 @@ function CoupleContent() {
 													<div className="timeline-badge" style={{ backgroundImage: "url(" + couple1 + ")" }}></div>
 													<div className="timeline-panel">
 														<div className="overlay"></div>
+														<div className="overlay"></div>
 														<div className="timeline-heading">
-															<h3 className="timeline-title">First We Meet</h3>
-															<span className="date">June 10, 2017</span>
+															<h3 className="timeline-title">Our First Date</h3>
+															<span className="date">June 10, 2021</span>
 														</div>
 														<div className="timeline-body">
-															<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in .</p>
+															<p style={{ color: "brown" }}>A day I’ll never forget. You stepped in looking radiating and I almost knocked the table down as I attempted to stand up. Nice food but even nicer being graced by your presence.</p>
 														</div>
 													</div>
 												</li>
@@ -50,11 +51,12 @@ function CoupleContent() {
 													<div className="timeline-panel">
 														<div className="overlay overlay-2"></div>
 														<div className="timeline-heading">
-															<h3 className="timeline-title">First Date</h3>
+															<h3 className="timeline-title">Meet The Friends</h3>
 															<span className="date">June 10, 2017</span>
+
 														</div>
 														<div className="timeline-body">
-															<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in .</p>
+															<p style={{ color: "grey" }}>Our first time meeting people in each other’s lives. It was a fun night! I love your smiled here. I want to always do that. To make you smile as brightly as possible, from now, till the end of time.</p>
 														</div>
 													</div>
 												</li>
@@ -62,25 +64,41 @@ function CoupleContent() {
 												<div className="timeline-badge" style={{ backgroundImage: "url(" + couple3 + ")" }}></div>
 													<div className="timeline-panel">
 														<div className="overlay"></div>
+														<div className="overlay"></div>
 														<div className="timeline-heading">
-															<h3 className="timeline-title">In A Relationship</h3>
+															<h3 className="timeline-title">Our first road trip</h3>
 															<span className="date">June 14, 2017</span>
 														</div>
 														<div className="timeline-body">
-															<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in .</p>
+															<p style={{ color: "brown" }}>
+															I had an amazing time with you at the hot springs. That 30 minute wait to sit in this pool was worth it, because it gave us this beautiful picture that I’ll cherish forever!
+															</p>
 														</div>
 													</div>
 												</li>
 												<li className="timeline-inverted animate-box">
-												<div className="timeline-badge" style={{ backgroundImage: "url(" + couple4 + ")" }}></div>
+												<div className="timeline-badge" style={{ backgroundImage: "url(" + couple3 + ")" }}></div>
 													<div className="timeline-panel">
 														<div className="overlay overlay-2"></div>
 														<div className="timeline-heading">
-															<h3 className="timeline-title">We're Engaged</h3>
+															<h3 className="timeline-title">Our first Vacation</h3>
 															<span className="date">Sept. 01, 2017</span>
 														</div>
 														<div className="timeline-body">
-															<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in .</p>
+															<p style={{ color: "grey" }}>The Great Ocean Road. A long beautiful drive with my beautiful girl. The first of many vacations to come! Can’t wait to continue to write our story together. Love you baby!</p>
+														</div>
+													</div>
+												</li>
+												<li className="animate-box">
+												<div className="timeline-badge" style={{ backgroundImage: "url(" + couple4 + ")" }}></div>
+													<div className="timeline-panel">
+														<div className="overlay"></div>
+														<div className="timeline-heading">
+															<h3 className="timeline-title">We're Engaged!!!</h3>
+															<span className="date">Sept. 01, 2017</span>
+														</div>
+														<div className="timeline-body">
+															<p style={{ color: "brown" }}>The Great Ocean Road. A long beautiful drive with my beautiful girl. The first of many vacations to come! Can’t wait to continue to write our story together. Love you baby!</p>
 														</div>
 													</div>
 												</li>
