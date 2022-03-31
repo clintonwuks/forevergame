@@ -9,7 +9,7 @@
     {
         question:
             "Whos the person he thinks of the most ?",
-        answers: ["Clint", "Clinton", "You", "Thierry Henry"],
+        answers: ["Fabregas", "Beethoven", "You", "Thierry Henry"],
         correct: "You",
         questionId: "093909"
     },
@@ -23,7 +23,7 @@
     {
         question:
             "So will you ?",
-        answers: ["Yes", "No", "Just say yes", "Abeg yes"],
+        answers: ["Yes", "No", "Hell no", "Check the first one"],
         correct: "Yes",
         questionId: "090089"
     },
