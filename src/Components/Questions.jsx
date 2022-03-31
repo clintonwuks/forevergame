@@ -40,29 +40,29 @@ function Questions() {
                     <div className="display-tc fs-1">
                         <h1 className="text-white fw-bold "> {qBank[currQuestion].question} </h1>
                         <div className="options">
-                            <button  type="button" className="btn btn-primary mr-1" onClick={() => {
+                            <button onClick={() => {
                                 setOptionChosen(qBank[currQuestion].answers[0]);
                             }}><h5>{qBank[currQuestion].answers[0]}</h5>
                             </button>
-                            <button  type="button" className="btn btn-primary mr-1" onClick={() => {
+                            <button onClick={() => {
                                 setOptionChosen(qBank[currQuestion].answers[1]);
                             }}><h5>{qBank[currQuestion].answers[1]}</h5>
                             </button>
-                            <button  type="button" className="btn btn-primary mr-1" onClick={() => {
+                            <button onClick={() => {
                                 setOptionChosen(qBank[currQuestion].answers[2]);
                             }}><h5>{qBank[currQuestion].answers[2]}</h5>
                             </button>
-                            <button  type="button" className="btn btn-primary mr-1" onClick={() => {
+                            <button onClick={() => {
                                 setOptionChosen(qBank[currQuestion].answers[3]);
                             }}><h5>{qBank[currQuestion].answers[3]}</h5>
                             </button>
                         </div>
                         {currQuestion === qBank.length - 1 ? (
-                            <button  type="button" className="btn btn-secondary" onClick={() => {
+                            <button onClick={() => {
                                 nextQuestion();
                             }}><h5>Finish Game</h5></button>
                         ) : (
-                                <button  type="button" className="btn btn-secondary" onClick={() => {
+                                <button onClick={() => {
                                     nextQuestion();
                                 }}><h5>Next Question</h5>
                                 </button>

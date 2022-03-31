@@ -11,6 +11,7 @@ function EndComp() {
                 <div className="display-t">
                     <div className="display-tc">
                         <span>
+                            <h3 >DFKMMMM!!!</h3>
                             {/*TO-DO
                             //Questions component that will be imported here*/}
                         </span>

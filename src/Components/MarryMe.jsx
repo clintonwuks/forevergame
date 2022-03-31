@@ -3,7 +3,7 @@ import React, { useContext } from 'react';
 import { backg } from './Questions'
 
 function MarryMe() {
-    const { setGameState } = useContext(QuizContext);
+    const { gameState, setGameState } = useContext(QuizContext);
 
     return (
         <div className="qbootstrap-hero ">

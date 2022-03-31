@@ -23,8 +23,8 @@ function Footer() {
                                     <div className="card bg-secondary border-0">
                                         <div className="card-body text-center">
                                         <h5 className="card-title text-white display-4" style={{ fontSize: "30px" }}>Contact Us</h5>
-                                        <a className="text-light d-block lead" style={{marginLeft: "-20px"}} href="/y"><i className="fa fa-phone mr-2"></i>+353899721656</a>
-                                            <a className="text-light d-block lead" href="/"><i className="fa fa-envelope mr-2"></i>clyaccessories@gmail.com</a>
+                                        <a className="text-light d-block lead" style={{marginLeft: "-20px"}} href="#"><i className="fa fa-phone mr-2"></i>+353899721656</a>
+                                            <a className="text-light d-block lead" href="#"><i className="fa fa-envelope mr-2"></i>clyaccessories@gmail.com</a>
                                         </div>
                                     </div>
                                 </div>
