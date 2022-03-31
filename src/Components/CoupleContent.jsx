@@ -1,13 +1,12 @@
-import { QuizContext } from '../question/Context';
-import React, { useContext } from 'react';
-import { backg } from './Questions';
+import React from 'react';
 import Footer from './Footer';
 import '../couple.css';
 const frontg = `${process.env.PUBLIC_URL}/assets/flaticon/svg/003-luxury.svg`;
 const couple1 = `${process.env.PUBLIC_URL}/assets/images/couple-1.jpg`;
 const couple2 = `${process.env.PUBLIC_URL}/assets/images/couple-2.jpg`;
-const couple3 = `${process.env.PUBLIC_URL}/assets/images/couple-3.jpg`;
-const couple4 = `${process.env.PUBLIC_URL}/assets/images/couple-4.jpg`;
+const couple3 = `${process.env.PUBLIC_URL}/assets/images/couple_3.jpg`;
+const couple4 = `${process.env.PUBLIC_URL}/assets/images/couple-3.jpg`;
+const couple5 = `${process.env.PUBLIC_URL}/assets/images/couple-4.jpg`;
 
 
 function CoupleContent() {
@@ -77,7 +76,7 @@ function CoupleContent() {
 													</div>
 												</li>
 												<li className="timeline-inverted animate-box">
-												<div className="timeline-badge" style={{ backgroundImage: "url(" + couple3 + ")" }}></div>
+												<div className="timeline-badge" style={{ backgroundImage: "url(" + couple4 + ")" }}></div>
 													<div className="timeline-panel">
 														<div className="overlay overlay-2"></div>
 														<div className="timeline-heading">
@@ -90,7 +89,7 @@ function CoupleContent() {
 													</div>
 												</li>
 												<li className="animate-box">
-												<div className="timeline-badge" style={{ backgroundImage: "url(" + couple4 + ")" }}></div>
+												<div className="timeline-badge" style={{ backgroundImage: "url(" + couple5 + ")" }}></div>
 													<div className="timeline-panel">
 														<div className="overlay"></div>
 														<div className="timeline-heading">
@@ -98,7 +97,7 @@ function CoupleContent() {
 															<span className="date">Sept. 01, 2017</span>
 														</div>
 														<div className="timeline-body">
-															<p style={{ color: "brown" }}>The Great Ocean Road. A long beautiful drive with my beautiful girl. The first of many vacations to come! Can’t wait to continue to write our story together. Love you baby!</p>
+															<p style={{ color: "brown" }}>Here's to me and You Forever!</p>
 														</div>
 													</div>
 												</li>
