@@ -1,5 +1,4 @@
-import { QuizContext } from '../question/Context';
-import React, { useContext } from 'react';
+import React from 'react';
 const backg = `${process.env.PUBLIC_URL}/assets/images/couple-4copy.jpg`;
 
 
