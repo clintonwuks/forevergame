@@ -38,8 +38,6 @@ function Footer() {
 
                                     <a className="text-light" href="https://twitter.com/TheRealClint_"><i className="fa fa-twitter-square fa-fw fa-2x" /></a>
 
-                                    <a className="text-light" href=""><i className="fa fa-instagram fa-fw fa-2x" /></a>
-
                                     <a className="text-light" href="https://www.linkedin.com/in/clinton-onwuka-09615a17b"><i className="fa fa-linkedin fa-fw fa-2x" /></a>
                                 </div>
                             </div>
