@@ -38,7 +38,7 @@ function CoupleContent() {
 														<div className="overlay"></div>
 														<div className="timeline-heading">
 															<h3 className="timeline-title">Our First Date</h3>
-															<span className="date">June 10, 2021</span>
+															<span className="date">June 10</span>
 														</div>
 														<div className="timeline-body">
 															<p style={{ color: "brown" }}>A day I’ll never forget. You stepped in looking radiating and I almost knocked the table down as I attempted to stand up. Nice food but even nicer being graced by your presence.</p>
