@@ -38,7 +38,7 @@ function CoupleContent() {
 														<div className="overlay"></div>
 														<div className="timeline-heading">
 															<h3 className="timeline-title">Our First Date</h3>
-															<span className="date">June 10</span>
+															<span className="date">April 30, 2021</span>
 														</div>
 														<div className="timeline-body">
 															<p style={{ color: "brown" }}>A day I’ll never forget. You stepped in looking radiating and I almost knocked the table down as I attempted to stand up. Nice food but even nicer being graced by your presence.</p>
@@ -51,7 +51,7 @@ function CoupleContent() {
 														<div className="overlay overlay-2"></div>
 														<div className="timeline-heading">
 															<h3 className="timeline-title">Meet The Friends</h3>
-															<span className="date">June 10, 2017</span>
+															<span className="date">May 21, 2021</span>
 
 														</div>
 														<div className="timeline-body">
@@ -66,7 +66,7 @@ function CoupleContent() {
 														<div className="overlay"></div>
 														<div className="timeline-heading">
 															<h3 className="timeline-title">Our first road trip</h3>
-															<span className="date">June 14, 2017</span>
+															<span className="date">June 29, 2021</span>
 														</div>
 														<div className="timeline-body">
 															<p style={{ color: "brown" }}>
@@ -81,7 +81,7 @@ function CoupleContent() {
 														<div className="overlay overlay-2"></div>
 														<div className="timeline-heading">
 															<h3 className="timeline-title">Our first Vacation</h3>
-															<span className="date">Sept. 01, 2017</span>
+															<span className="date">Feb. 12, 2022</span>
 														</div>
 														<div className="timeline-body">
 															<p style={{ color: "grey" }}>The Great Ocean Road. A long beautiful drive with my beautiful girl. The first of many vacations to come! Can’t wait to continue to write our story together. Love you baby!</p>
@@ -94,7 +94,7 @@ function CoupleContent() {
 														<div className="overlay"></div>
 														<div className="timeline-heading">
 															<h3 className="timeline-title">We're Engaged!!!</h3>
-															<span className="date">Sept. 01, 2017</span>
+															<span className="date">Till Eternity</span>
 														</div>
 														<div className="timeline-body">
 															<p style={{ color: "brown" }}>Here's to me and You Forever!</p>
@@ -116,76 +116,3 @@ function CoupleContent() {
 }
 
 export default CoupleContent;
-
-
-
-//<div id="qbootstrap-story" data-section="story">
-//	<div className="container">
-//		<div class="row animate-box">
-//			<div class="col-md-8 col-md-offset-2">
-//				<div class="col-md-12 text-center section-heading svg-sm-2">
-//					<img src="images/flaticon/svg/003-luxury.svg" class="svg" alt="Free HTML5 Bootstrap Template by QBootstrap.com">
-//						<h2>Our Love Story</h2>
-//					</div>
-//				</div>
-//			</div>
-//			<div class="row">
-//				<div class="col-md-12">
-//					<ul class="timeline animate-box">
-//						<li class="animate-box">
-//							<div class="timeline-badge" style="background-image:url(images/couple-1.jpg);"></div>
-//							<div class="timeline-panel">
-//								<div class="overlay"></div>
-//								<div class="timeline-heading">
-//									<h3 class="timeline-title">First We Meet</h3>
-//									<span class="date">June 10, 2017</span>
-//								</div>
-//								<div class="timeline-body">
-//									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in .</p>
-//								</div>
-//							</div>
-//						</li>
-//						<li class="timeline-inverted animate-box">
-//							<div class="timeline-badge" style="background-image:url(images/couple-2.jpg);"></div>
-//							<div class="timeline-panel">
-//								<div class="overlay overlay-2"></div>
-//								<div class="timeline-heading">
-//									<h3 class="timeline-title">First Date</h3>
-//									<span class="date">June 10, 2017</span>
-//								</div>
-//								<div class="timeline-body">
-//									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in .</p>
-//								</div>
-//							</div>
-//						</li>
-//						<li class="animate-box">
-//							<div class="timeline-badge" style="background-image:url(images/couple-3.jpg);"></div>
-//							<div class="timeline-panel">
-//								<div class="overlay"></div>
-//								<div class="timeline-heading">
-//									<h3 class="timeline-title">In A Relationship</h3>
-//									<span class="date">June 14, 2017</span>
-//								</div>
-//								<div class="timeline-body">
-//									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in .</p>
-//								</div>
-//							</div>
-//						</li>
-//						<li class="timeline-inverted animate-box">
-//							<div class="timeline-badge" style="background-image:url(images/couple-4.jpg);"></div>
-//							<div class="timeline-panel">
-//								<div class="overlay overlay-2"></div>
-//								<div class="timeline-heading">
-//									<h3 class="timeline-title">We're Engaged</h3>
-//									<span class="date">Sept. 01, 2017</span>
-//								</div>
-//								<div class="timeline-body">
-//									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in .</p>
-//								</div>
-//							</div>
-//						</li>
-//					</ul>
-//				</div>
-//			</div>
-//		</div>
-//	</div>
