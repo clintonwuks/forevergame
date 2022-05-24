@@ -55,7 +55,7 @@ function CoupleContent() {
 
 														</div>
 														<div className="timeline-body">
-															<p style={{ color: "grey" }}>Our first time meeting people in each other’s lives. It was a fun night! I love your smiled here. I want to always do that. To make you smile as brightly as possible, from now, till the end of time.</p>
+															<p style={{ color: "grey" }}>Our first time meeting people in each other’s lives. It was a fun night! I love your smile here. I want to always do that. To make your smile as bright as possible, from now, till the end of time.</p>
 														</div>
 													</div>
 												</li>
