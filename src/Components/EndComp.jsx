@@ -1,13 +1,13 @@
 import React from 'react';
-const backg = `${process.env.PUBLIC_URL}/assets/images/couple-4copy.jpg`;
+import '../EndComp.css';
 
 
 function EndComp() {
 
     return (
-        <div className="qbootstrap-hero ">
+        <div className="">
             <div className="qbootstrap-overlay-1"></div>
-            <div className="qbootstrap-cover text-center" style={{ backgroundImage: "url(" + backg + ")" }}>
+            <div className="qbootstrap-cover bg " >
                 <div className="display-t">
                     <div className="display-tc">
                         <span>
